@@ -1,7 +1,7 @@
 
 ---
 
-
+![](https://github-readme-stats.vercel.app/api?username=zizwar&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zizwar&hide=html&layout=compact&theme=tokyonight)
 
