@@ -1,6 +1,6 @@
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zizwar&hide=html&layout=compact&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zizwar&theme=default)![](https://github-readme-stats.vercel.app/api/top-langs/?username=zizwar&hide=html&layout=compact&theme=tokyonight)
 
 
 
